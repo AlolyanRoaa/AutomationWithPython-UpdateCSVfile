@@ -1,3 +1,3 @@
-# Automation With Python-Update CSV file
-a python program to update a CSV file : update the prices of the transactions in the DB by 0.9
-output : a new CSV file with the new updates 
+# Automation With Python-Update xlsx file
+a python program to update a xlsx file : update the prices of the transactions in the DB by 0.9
+output : a new xlsx file with the new updates 
